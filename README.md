@@ -1,7 +1,7 @@
 Hi there!
 
-I am a MERN stack developer and currently I'm contributing to open source projects. Previously I built a chatapp where you can send real-time messages, Images and in the future more features will be added such as audio messages, private messages etc..
-
+I am a MERN stack developer and currently I'm contributing to open source projects. I've migrated apis, migrated javascript website to React JS and many more in between. 
+I'm currently learning Djaongo for the backend and exploring cloud computing. Please reach me out for any queries on ukhanwasif@gmail.com .
 <!--
 **wasifkhan00/wasifkhan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
