@@ -1,18 +1,19 @@
-Hi there!
+I am a passionate and motivated self-taught software developer with a strong background in Mern Stack Development. With 2 years of professional experience in the industry, I have developed a deep understanding of ReactJs, NextJS, ExpressJs, NodeJs, SQL, MongoDB, and Amazon Web Services (AWS).
 
-I am a MERN stack developer and currently I'm contributing to open source projects. I've migrated apis, migrated javascript website to React JS and many more in between. 
-I'm currently learning Djaongo for the backend and exploring cloud computing. Please reach me out for any queries on ukhanwasif@gmail.com .
-<!--
-**wasifkhan00/wasifkhan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My approach to software development is driven by a desire to create elegant and efficient solutions to complex problems. I am passionate about staying up-to-date with the latest industry trends and technologies, and I am always looking for ways to improve my skills and knowledge.
 
-Here are some ideas to get you started:
+Throughout my career, I have had the opportunity to work on a wide range of projects, including developing a chat web application that has almost every features as messenger. These experiences have taught me the importance of collaboration, communication, and attention to detail in delivering high-quality software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I believe that open-source software is an important driver of innovation and collaboration in the industry, and I am proud to be a part of this community.
+
+Thank you for taking the time to learn more about me, and I look forward to connecting with you further on Github.
+
+
+
+
+
+
+
+
+
+
