@@ -7,8 +7,10 @@ I am a Full-Stack Software Engineer with a proven track record of delivering hig
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:ukhanwasif@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Email-red?style=for-the-badge&logo=gmail" alt="Email Me" /></a>
-<a href="https://linkedin.com/in/ukhanwasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ukhanwasif" height="30" width="40" /></a>
+<a href="mailto:ukhanwasif@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  <a href="https://linkedin.com/in/ukhanwasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ukhanwasif" height="30" width="40" /></a>
 </p>
 
 ---
