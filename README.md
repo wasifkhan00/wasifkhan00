@@ -3,7 +3,7 @@
 
 I am a Full-Stack Software Engineer with a proven track record of delivering high-quality applications since 2021. My experience is centered on building scalable solutions for international markets, including direct collaborations with two US-based companies and various specialized projects sourced through Reddit. I specialize in the intersection of traditional full-stack development and Web3 infrastructure, where I have successfully engineered decentralized canisters and integrated video streaming platforms designed for cost-efficiency and high scalability. My focus remains on bridging the gap between complex backend logic and intuitive frontend design to provide seamless user experiences.
 
-👨‍💻 All of my projects are available at <a href="https://wasifkhandevportfolio.netlify.app/" target="blank">Here</a>
+👨‍💻 All of my projects are available <a href="https://wasifkhandevportfolio.netlify.app/" target="_blank">Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
